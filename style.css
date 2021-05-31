@@ -184,7 +184,7 @@ body{
     }
 }
 
-@media (max-width:768px){
+@media (max-width:750px){
     .avatar-col{
         width: 56%;
         padding-left: 12px;
